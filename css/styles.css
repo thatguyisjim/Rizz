@@ -1,0 +1,49 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+.btn{
+    margin-top: 50%;
+    display: box;
+    width: 20%;
+    border-style: solid;
+    background-color: white;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-size: 16px;
+    text-align: center;
+    align-items: center;
+}
+body{
+background-color: #393E46;
+}
+h1{
+    margin: 30px;
+    font-style: 'lobster';
+    font-style: cursive;
+    text-shadow:  5px 0 #232931;
+    font-size: 8rem;
+    color:  #4ECCA3;
+}
+p{
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-style: Indie Flower;
+}
+img{
+    border-image-width: 80%;
+}
+footer{
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-style: 'Indie Flower';
+    font-style: cursive;
+}
